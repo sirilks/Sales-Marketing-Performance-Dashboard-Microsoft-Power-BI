@@ -24,5 +24,5 @@ This project focuses on analyzing sales and marketing performance using Power BI
 (Add screenshots here)
 
 ## 📂 Files Included
-- Sales_Dashboard.pbix  
-- Marketing_Sales_Data.csv  
+- MarketingDashbord.pbix  
+- Marketing_Sales_Dataset.xlsx
