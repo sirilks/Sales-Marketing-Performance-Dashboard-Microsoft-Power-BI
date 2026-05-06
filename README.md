@@ -4,11 +4,12 @@
 This project focuses on analyzing sales and marketing performance using Power BI. The dashboard provides key insights into business performance, helping stakeholders make data-driven decisions.
 
 ## 🚀 Key Features
-- KPI tracking: Total Sales, Profit, Profit Margin  
-- Regional performance analysis  
-- Marketing channel and campaign performance evaluation  
-- Monthly sales trend analysis  
-- Customer-level insights with drill-down functionality  
+- Compare sales performance across different regions  
+- Identify the best-performing marketing channels  
+- Track monthly sales trends and growth patterns  
+- Analyze campaign performance and effectiveness  
+- Enable drill-down into individual customer-level data  
+- Support data-driven decision-making for managers   
 
 ## 🛠 Tools Used
 - Power BI  
